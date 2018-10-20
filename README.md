@@ -1,7 +1,7 @@
 # Data-Analyst-Porfolio-Project-Exploring-67-years-of-LEGO-Datacamp.com
 
 
-To view the project click on the  notebook.ipynb file. The other files are the database materials that were queried to get the results in the project.
+To view the project click on the  notebook.ipynb file. The other files are the database materials that were queried to get the results of the project.
 
 This project uses 67 years of information from the LEGO Database.
 
